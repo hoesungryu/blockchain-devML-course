@@ -1,5 +1,5 @@
 # 블록체인 취업연계 교육과정
-![](./poster.jpg)
+![](./img/poster.jpg)
 
 ## 강의 내용
 머신러닝(Machine Learning)과 딥러닝(Deep Learning)
